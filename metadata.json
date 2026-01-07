@@ -1,0 +1,7 @@
+{
+  "name": "XpensePro - Production Ready Expense Tracker",
+  "description": "A high-performance expense tracking dashboard with robust security, detailed reporting, and a clean mobile-first UI, built with React and Tailwind to simulate the Flutter UX.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
